@@ -1,0 +1,51 @@
+age,income,education_level,marital_status,purchased
+32,53778,Master's Degree,Divorced,Yes
+65,33881,Associate Degree,Widowed,Yes
+45,36816,High School,Married,No
+36,37345,Associate Degree,Single,Yes
+70,55392,Master's Degree,Widowed,Yes
+45,33519,High School,Married,Yes
+61,115411,PhD,Single,No
+43,70477,Master's Degree,Divorced,Yes
+46,92202,Bachelor's Degree,Divorced,No
+36,73780,Bachelor's Degree,Divorced,No
+65,47948,Bachelor's Degree,Married,No
+56,44222,PhD,Widowed,Yes
+50,79330,Associate Degree,Single,No
+56,65934,PhD,Single,No
+52,113060,Master's Degree,Married,Yes
+32,111348,Master's Degree,Single,No
+24,113514,Master's Degree,Widowed,Yes
+22,52104,High School,Single,Yes
+21,82738,Bachelor's Degree,Single,No
+61,115687,PhD,Single,Yes
+28,55001,High School,Married,No
+55,87861,Associate Degree,Widowed,Yes
+67,51496,Bachelor's Degree,Single,No
+67,108275,Bachelor's Degree,Married,No
+66,115401,High School,Divorced,No
+68,94099,PhD,Widowed,No
+40,42589,PhD,Married,Yes
+41,35511,Master's Degree,Divorced,No
+37,37279,Associate Degree,Widowed,Yes
+59,44119,Bachelor's Degree,Widowed,No
+46,52642,High School,Widowed,Yes
+63,85565,Master's Degree,Divorced,Yes
+64,32319,PhD,Widowed,No
+20,107475,Bachelor's Degree,Single,No
+38,80607,High School,Married,No
+46,45771,Associate Degree,Single,Yes
+41,43950,PhD,Single,Yes
+69,97055,Associate Degree,Single,No
+42,99631,Associate Degree,Divorced,No
+61,45873,Bachelor's Degree,Single,No
+25,46172,Associate Degree,Widowed,Yes
+34,81255,Bachelor's Degree,Widowed,No
+60,75162,High School,Married,No
+46,117345,Bachelor's Degree,Single,No
+30,112766,High School,Single,No
+21,80335,High School,Widowed,No
+58,107963,PhD,Single,No
+48,52368,Bachelor's Degree,Single,No
+45,78597,PhD,Married,Yes
+64,45575,Bachelor's Degree,Single,No
